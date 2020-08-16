@@ -1,1 +1,3 @@
 # goup
+
+A golang installer
